@@ -1,0 +1,7 @@
+faster_whisper
+gtts
+ollama
+python_Levenshtein
+streamlit
+streamlit_mic_recorder
+transformers
